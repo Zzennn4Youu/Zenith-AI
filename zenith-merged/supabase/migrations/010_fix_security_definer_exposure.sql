@@ -1,0 +1,1 @@
+-- Fix security definer exposure migration

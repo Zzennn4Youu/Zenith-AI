@@ -1,0 +1,1 @@
+-- Revoke public execute properly migration

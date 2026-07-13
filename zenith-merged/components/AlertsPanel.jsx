@@ -1,0 +1,1 @@
+// AlertsPanel component
