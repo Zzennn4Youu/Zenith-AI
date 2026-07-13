@@ -1,0 +1,1 @@
+-- Revoke subscription migration

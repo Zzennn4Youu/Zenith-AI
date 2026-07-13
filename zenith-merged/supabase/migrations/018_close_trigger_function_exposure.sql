@@ -1,0 +1,1 @@
+-- Close trigger function exposure migration

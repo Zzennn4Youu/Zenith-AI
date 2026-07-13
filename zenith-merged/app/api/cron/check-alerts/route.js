@@ -1,0 +1,1 @@
+// Cron check-alerts endpoint
